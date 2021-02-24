@@ -1,6 +1,6 @@
 ##  Hey! I'm Adam
 
-I like Javascript, Functional Programming and fast interfaces. I sleep with a copy of SCIP beside my bed (trust me, it's better than counting sheep 😴).
+I like Javascript, Functional Programming and fast interfaces. 
 
 Father to 3 :baby: and 2 :dog:
 
