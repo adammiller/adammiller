@@ -1,4 +1,11 @@
-### Hi there 👋
+##  Hey! I'm Adam
+
+I like Javascript, Functional Programming and fast interfaces. I sleep with a copy of SCIP beside my bed (trust me, it's better than counting sheep 😴).
+
+Father to 3 :baby: and 2 :dog:
+
+Currently working on building robust UIs with React for Walmart eCommerce.
+
 
 <!--
 **adammiller/adammiller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
