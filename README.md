@@ -4,7 +4,7 @@ I like Javascript, Functional Programming and fast interfaces.
 
 Father to 3 :baby: and 2 :dog:
 
-Currently working on building robust UIs with React for Walmart eCommerce.
+Currently working on products and tooling at Netflix.
 
 
 <!--
